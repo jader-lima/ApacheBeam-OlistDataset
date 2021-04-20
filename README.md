@@ -6,6 +6,7 @@ Os dados estão disponíveis em https://www.kaggle.com/olistbr/brazilian-ecommer
 
 
 Ambiente : 
+
 Opção 1 
 é possivel simplesmente instalar o apache beam no seu ambiente padrão python, com pip install apache-beam
 
