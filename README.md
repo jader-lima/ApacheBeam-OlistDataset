@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Logo of the project](https://beam.apache.org/images/logos/full-color/name-right/beam-logo-full-color-name-right-100.png)
 
 # ApacheBeam-OlistDataset
 O objetivo desse projeto é demonstrar a utilização do apache-beam para criar um processo de ETL (extração ,transformação e carga de dados).
